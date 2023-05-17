@@ -1,0 +1,17 @@
+.showAllButton {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .showAllButton button {
+    width: 181px;
+    height: 43px;
+    background: #5E47A1;
+    border-radius: 21.5px;
+    color: white;
+    padding: 8px 16px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+  }

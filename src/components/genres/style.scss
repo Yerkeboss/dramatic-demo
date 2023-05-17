@@ -1,0 +1,18 @@
+.genres {
+  display: flex;
+  color: rgba(255, 255, 255, 1);
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  .genre {
+    margin: 0;
+    color: rgba(255, 255, 255, 1);
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+  }
+}
